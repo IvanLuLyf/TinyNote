@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TinyNote</string>
+    <string name="txt_title">Title</string>
+    <string name="txt_content">Content</string>
+    <string name="txt_save">Save</string>
+    <string name="txt_new_note">New Note</string>
+    <string name="txt_modify_note">Modify Note</string>
+</resources>
